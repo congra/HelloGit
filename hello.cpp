@@ -1,8 +1,9 @@
 #include <cstdio>
 #include <iostream>
+using namespace std;
 
 int main()  {
-  std::cout<<"Good day..."<<std::endl;
+  cout<<"Good day..."<<endl;
   return 0;
 }
 
