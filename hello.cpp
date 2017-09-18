@@ -10,5 +10,6 @@ int main()  {
   cout<<"Good day..."<<endl;
   return 0;
   cout<<"You should not see this."
+  cout<<"A";
 }
 
