@@ -12,5 +12,6 @@ int main()  {
   return 0;
   // local master added
   cout<<"You should not see this."
+  cout<<"A";
 }
 
